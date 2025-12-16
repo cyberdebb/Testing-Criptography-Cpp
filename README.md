@@ -1,4 +1,4 @@
-# Testing-Cryptography-Cpp
+# Testing Cryptography Cpp
 
 This repository contains experiments and study-oriented implementations related to **cryptography concepts in C++**.
 
